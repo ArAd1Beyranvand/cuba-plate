@@ -4,6 +4,8 @@ GO VEGAN 🌱
 
 ==================================
 
+From the mighty people of Iran to the brave people of Cuba to view examples:
+
 https://platexample.ir/#/discover/cuba
 
 # cuba_plate
@@ -34,7 +36,6 @@ laser-printed control number.
 
 ## Also available
 
-From the mighty people of Iran to the brave people of Cuba to view examples:
 
 - [`plate_core`](https://pub.dev/packages/plate_core) - Paint license plates.
 - [`plate_keypad`](https://pub.dev/packages/plate_keypad) - A character picker for license plates.
