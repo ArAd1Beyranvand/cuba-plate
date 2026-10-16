@@ -1,5 +1,5 @@
-import 'package:plate_core/plate_core.dart';
 import 'package:flutter/widgets.dart';
+import 'package:plate_core/plate_core.dart';
 
 import 'cuba_alphabets.dart';
 import 'cuba_colors.dart';
@@ -169,8 +169,7 @@ abstract final class CubaPlates {
     ],
   );
 
-  /// The letter alone on the top row beside a ruled CUBA box, five digits
-  /// across the bottom.
+  /// The letter beside a ruled CUBA box on the top row, five digits below.
   static final PlateSpec motorcycle = PlateSpec(
     id: 'cu.motorcycle',
     country: CubaCountry.cuba,
@@ -244,6 +243,5 @@ abstract final class CubaPlates {
     motorcycle,
   ];
 
-  /// The theme every spec here is drawn in.
   static const PlateTheme theme = CubaThemes.standard;
 }
