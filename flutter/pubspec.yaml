@@ -1,7 +1,7 @@
 name: cuba_plate
 description: "Cuba's licence plates for plate_core: the 2013 car plate (natural-person and legal-entity strips) and motorcycle plate, with alphabet and advisory validator."
 version: 0.1.1
-repository: https://github.com/ArAd1Beyranvand/cuba-plate
+repository: https://github.com/ArAd1Beyranvand/cuba-plate/tree/main/flutter
 resolution: workspace
 
 environment:
